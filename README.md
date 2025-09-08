@@ -6,7 +6,7 @@ A responsive React + TypeScript + TailwindCSS application that fetches data from
 
 ## 🔗 Demo
 
-👉 [Live Demo](https://your-demo-link.vercel.app)
+👉 [Live Demo](https://spacex-webapp-react.netlify.app/)
 
 ---
 
