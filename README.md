@@ -58,7 +58,7 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/spacex-info-app.git
+git clone https://github.com/nandhinigurumoorthyy/spacex-zone.git
 cd spacex-info-app
 ```
 
@@ -66,10 +66,6 @@ cd spacex-info-app
 
 ```bash
 npm install
-# or
-yarn install
-# or
-pnpm install
 ```
 
 ### 3. Start the development server
@@ -78,12 +74,9 @@ pnpm install
 npm run dev
 ```
 
-Visit: http://localhost:5173
-
 ---
 
 ## 📜 License
 
 This project uses public SpaceX API data. Not affiliated with SpaceX.
 
----
