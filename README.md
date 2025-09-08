@@ -35,8 +35,8 @@ A responsive React + TypeScript + TailwindCSS application that fetches data from
 * [TailwindCSS](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
 * [React Router](https://reactrouter.com/)
-* SpaceX REST API: [https://github.com/r-spacex/SpaceX-API/tree/master/docs](https://github.com/r-spacex/SpaceX-API/tree/master/docs)
-
+* [SpaceX REST API](https://github.com/r-spacex/SpaceX-API/tree/master/docs)
+  
 ---
 
 ## 📂 Project Structure
